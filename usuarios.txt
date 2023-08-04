@@ -1,0 +1,1 @@
+{"loginUsr":"PHP","passUsr":"1234567A","nivelAccs":"Admin","nombreUs":"Adrian","emailUsr":"Desconocido","apellidosUsr":"Mejia Castro"}
